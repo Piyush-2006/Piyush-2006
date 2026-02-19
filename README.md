@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning **JAVA DSA**
 - 💬 Ask me about **Java Programming Language, React(AWS, Gitlab)**
 - 📫 How to reach me **piyushkr6002@gmail.com**
-- 🏆HACKATHON WINNER - SmartEarth'25 
-SmartEarth'25 Hackathon @Nazarbayev University (Kazakhstan) Finalist
+- 🏆HACKATHON - RIFT 
+
 
 
 ## 🌐 Socials:
